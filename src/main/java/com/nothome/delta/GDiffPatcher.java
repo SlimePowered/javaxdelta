@@ -52,7 +52,7 @@ import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;
 
 /**
- * This class patches an input file with a GDIFF patch fil�e.
+ * This class patches an input file with a GDIFF patch file.
  *
  * The patch file follows the GDIFF file specification available at
  * {@link http://www.w3.org/TR/NOTE-gdiff-19970901.html}.
